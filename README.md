@@ -4,12 +4,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YuriLeocadio&bg_color=000114&color=00e1ff&line=6305f0&point=3c7cb9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YuriLeocadio&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=tokyionight&text_color=87CEEB&bg_color=0d1117" alt="Yuri Leocadio github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriLeocadio&layout=compact&hide_border=true&title_color=00BFFF&text_color=87CEEB&bg_color=0d1117" />
 </div>
-
 
 <div align="center"> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
@@ -25,7 +23,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp; 
@@ -37,6 +34,5 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{YuriLeocadio}/count.svg" /></p> 
   <br>
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
