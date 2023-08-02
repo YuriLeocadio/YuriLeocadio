@@ -15,7 +15,6 @@
   <a href="https://www.instagram.com/techwizard.yuri/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://wa.me/5524993289964" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href = "mailto:ymoreria.leocadio@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.tiktok.com/@techwizard.yuri?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 </div>
   
 ### Main skills:
