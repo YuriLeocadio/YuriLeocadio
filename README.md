@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,29,2,5,30&height=200&section=header&text=Yuri%20Moreira%20Leocadio&fontSize=60&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Yuri+Moreira+Leocadio;Tenho+17+anos;Seja+Bem-Vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Yuri+Moreira+Leocadio;Tenho+17+anos;+Desenvolvedor+Full-Stack;Seja+Bem-Vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YuriLeocadio&bg_color=000114&color=00e1ff&line=6305f0&point=3c7cb9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
