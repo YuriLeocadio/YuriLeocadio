@@ -17,15 +17,16 @@
 </div>
   
 ### Tecnologias que tenho conhecimento:
-  <img align="center" alt="Rafa-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Javascript
-  <img align="center" alt="Rafa-React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React
-  <img align="center" alt="Rafa-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML
-  <img align="center" alt="Rafa-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
+  <img align="center" alt="Yuri-Java" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> Java
+  <img align="center" alt="Yuri-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Javascript
+  <img align="center" alt="Yuri-React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React
+  <img align="center" alt="Yuri-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML
+  <img align="center" alt="Yuri-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
 
 ### Tecnologias que estou estudando no momento:
-  <img align="center" alt="Rafa-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Javascript
-  <img align="center" alt="Rafa-React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React
-  <!--<img align="center" alt="Rafa-Ts" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> Typescript-->
+  <img align="center" alt="Yuri-Java" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> Java
+  <!--<img align="center" alt="Rafa-React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React
+  <img align="center" alt="Rafa-Ts" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> Typescript
   <img align="center" alt="Rafa-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML
   <img align="center" alt="Rafa-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
 
@@ -34,3 +35,4 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{YuriLeocadio}/count.svg" /></p> 
   <br>
 </div>
+-->
